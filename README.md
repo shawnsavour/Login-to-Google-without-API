@@ -8,9 +8,9 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/shawnsavour/Login-to-Google-without-API/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/shawnsavour/Login-to-Google-without-API/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/shawnsavour/Login-to-Google-without-API.svg)](https://github.com/shawnsavour/Login-to-Google-without-API/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/shawnsavour/Login-to-Google-without-API.svg)](https://github.com/shawnsavour/Login-to-Google-without-API/pulls)
+<!-- [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE) -->
 
 </div>
 
