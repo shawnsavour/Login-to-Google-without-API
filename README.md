@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
+</p> -->
 
 <h3 align="center">Login to Google without API</h3>
 
@@ -42,10 +42,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+The things you need to install the software and how to install them.
 
 ```
-Give examples
+pip install -r requirement.txt
 ```
 
 ### Installing
