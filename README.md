@@ -10,7 +10,6 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/shawnsavour/Login-to-Google-without-API.svg)](https://github.com/shawnsavour/Login-to-Google-without-API/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/shawnsavour/Login-to-Google-without-API.svg)](https://github.com/shawnsavour/Login-to-Google-without-API/pulls)
-<!-- [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE) -->
 
 </div>
 
@@ -24,13 +23,10 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -50,65 +46,23 @@ pip install -r requirement.txt
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
+After installing, change username and password and run Login.py
 
 ```
-Give the example
+python Login.py
 ```
 
-And repeat
+## 🔧 Running the tests <a name = "usage"></a>
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
+It will auto login to Google. Press enter to shutdown driver.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Selenium](https://www.selenium.dev/) - Database
+- [Undetected Chromedriver](https://pypi.org/project/undetected-chromedriver/)
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@shawnsavour](https://github.com/shawnsavour) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/shawnsavour/Login-to-Google-without-API/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
